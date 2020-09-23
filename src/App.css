@@ -1,5 +1,16 @@
+html{
+  /* background-color: cadetblue; */
+}
+
+h1{
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #ff0000;
+}
+
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
